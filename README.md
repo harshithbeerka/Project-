@@ -1,10 +1,4 @@
 
-You said:
-minor (2).pdf
-PDF
-Give me simple details of project to summarise Total project what tools i have used give me project url
-Here is a simple, clean project summary + tools used + project URL placeholder for your “Market Dynamics: Sales Insights and Forecasting” project based on the PDF you uploaded.
-(If you want, I can convert this into a PDF also.)
 
 ✅ Project Summary (Simple & Clear)
 Project Title:
